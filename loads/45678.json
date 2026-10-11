@@ -1,6 +1,6 @@
 {
   "load_id": "45678",
-  "status": "covered",
+  "load_status": "covered",
   "origin": { "city": "Memphis", "state": "TN" },
   "destination": { "city": "Indianapolis", "state": "IN" },
   "pickup_window": "Tomorrow, 9 AM to 1 PM",

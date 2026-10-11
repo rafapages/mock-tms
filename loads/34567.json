@@ -1,6 +1,6 @@
 {
   "load_id": "34567",
-  "status": "available",
+  "load_status": "available",
   "origin": { "city": "Los Angeles", "state": "CA" },
   "destination": { "city": "Phoenix", "state": "AZ" },
   "pickup_window": "In two days, 7 AM to 3 PM",

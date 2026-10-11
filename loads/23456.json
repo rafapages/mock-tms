@@ -1,6 +1,6 @@
 {
   "load_id": "23456",
-  "status": "available",
+  "load_status": "available",
   "origin": { "city": "Atlanta", "state": "GA" },
   "destination": { "city": "Orlando", "state": "FL" },
   "pickup_window": "Tomorrow, 6 AM to 10 AM",

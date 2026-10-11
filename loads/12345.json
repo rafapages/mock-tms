@@ -1,6 +1,6 @@
 {
   "load_id": "12345",
-  "status": "available",
+  "load_status": "available",
   "origin": { "city": "Chicago", "state": "IL" },
   "destination": { "city": "Dallas", "state": "TX" },
   "pickup_window": "Tomorrow, 8 AM to 12 PM",
