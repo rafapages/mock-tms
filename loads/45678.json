@@ -1,0 +1,15 @@
+{
+  "load_id": "45678",
+  "status": "covered",
+  "origin": { "city": "Memphis", "state": "TN" },
+  "destination": { "city": "Indianapolis", "state": "IN" },
+  "pickup_window": "Tomorrow, 9 AM to 1 PM",
+  "delivery_window": "Tomorrow, by 11 PM",
+  "equipment": "53 ft dry van",
+  "weight_lbs": 36000,
+  "commodity": "Paper products",
+  "miles": 465,
+  "posted_rate_usd": 1250,
+  "max_rate_usd": 1400,
+  "notes": "Already booked with another carrier."
+}

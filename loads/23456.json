@@ -1,0 +1,15 @@
+{
+  "load_id": "23456",
+  "status": "available",
+  "origin": { "city": "Atlanta", "state": "GA" },
+  "destination": { "city": "Orlando", "state": "FL" },
+  "pickup_window": "Tomorrow, 6 AM to 10 AM",
+  "delivery_window": "Tomorrow, by 8 PM",
+  "equipment": "53 ft reefer, set at 34 F",
+  "weight_lbs": 38000,
+  "commodity": "Fresh produce",
+  "miles": 440,
+  "posted_rate_usd": 1150,
+  "max_rate_usd": 1300,
+  "notes": "Continuous temperature monitoring required. Pulp temperature checked at pickup."
+}

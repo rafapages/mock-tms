@@ -1,0 +1,15 @@
+{
+  "load_id": "12345",
+  "status": "available",
+  "origin": { "city": "Chicago", "state": "IL" },
+  "destination": { "city": "Dallas", "state": "TX" },
+  "pickup_window": "Tomorrow, 8 AM to 12 PM",
+  "delivery_window": "Day after tomorrow, by 5 PM",
+  "equipment": "53 ft dry van",
+  "weight_lbs": 42000,
+  "commodity": "Packaged consumer goods",
+  "miles": 967,
+  "posted_rate_usd": 2100,
+  "max_rate_usd": 2350,
+  "notes": "Live load at pickup, drop at delivery. No hazmat."
+}

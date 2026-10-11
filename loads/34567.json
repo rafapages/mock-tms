@@ -1,0 +1,15 @@
+{
+  "load_id": "34567",
+  "status": "available",
+  "origin": { "city": "Los Angeles", "state": "CA" },
+  "destination": { "city": "Phoenix", "state": "AZ" },
+  "pickup_window": "In two days, 7 AM to 3 PM",
+  "delivery_window": "In three days, by 12 PM",
+  "equipment": "48 ft flatbed",
+  "weight_lbs": 45000,
+  "commodity": "Steel coils",
+  "miles": 372,
+  "posted_rate_usd": 1200,
+  "max_rate_usd": 1350,
+  "notes": "Tarps and coil racks required. Driver must have chains and straps."
+}
